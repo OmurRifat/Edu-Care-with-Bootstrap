@@ -1,5 +1,9 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0px;
+}
+
+main {
+    margin-bottom: 0;
 }
 
 .carousel-item::after {
@@ -12,6 +16,7 @@ body {
     background: rgba(0, 0, 0, 0.6);
 }
 
-.first-caption::after {
-    color: white;
+
+footer {
+    height: 250px;
 }
